@@ -1,7 +1,7 @@
 ## Mengunduh File
   Download file project dari repository ini atau bisa gunakan git clone
   ```
-  git clone https://github.com/anazantoro/dicoding-project-analisis-data.git
+   https://github.com/anazantoro/streamlit-OSM-project.git
   ```
 ## Setup Streamlit - Terminal
 1. Buat virtual environment
@@ -16,13 +16,7 @@
   ```
   pip install -r requirements.txt
   ```
-4. Masuk ke direktori dashboard
+4. Jalankan Streamlit
   ```
-  cd dashboard.py
+  streamlit run app.py
   ```
-5. Jalankan Streamlit
-  ```
-  streamlit run dashboard.py
-  ```
-
-# Dashboard
